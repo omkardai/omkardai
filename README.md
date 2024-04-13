@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omkardai
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning python and c
+- 🌱 I’m currently learning python and c and ubuntu terminal.
 - 💞️ I’m looking to collaborate on not rn but probably in future
 - 📫 How to reach me 
 
