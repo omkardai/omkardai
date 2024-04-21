@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T08:48:10.271Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Ns2ZVx2U1VrUp-oHTkNN" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-21T02:43:08.831Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="lTbbhLvE-UcYG_xiSfCa" version="24.2.5" type="github">
   <diagram name="Page-1" id="IZm3vokCnuj0Npb6NhkT">
-    <mxGraphModel dx="1958" dy="1744" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1379" dy="1072" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="-206" y="-128" width="306" height="107" as="geometry" />
         </mxCell>
         <mxCell id="JtGPr-zatAv9Fw7zj42a-7" value="resources needed" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-209" y="56" width="304" height="112" as="geometry" />
+          <mxGeometry x="-209" y="56" width="302" height="112" as="geometry" />
         </mxCell>
         <mxCell id="JtGPr-zatAv9Fw7zj42a-8" value="executing plan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-224" y="236" width="341" height="119" as="geometry" />
@@ -50,6 +50,7 @@
               <mxPoint x="-434" y="12" />
               <mxPoint x="-219" y="-267" />
               <mxPoint x="-486" y="-251" />
+              <mxPoint x="-385" y="-60" />
             </Array>
           </mxGeometry>
         </mxCell>
